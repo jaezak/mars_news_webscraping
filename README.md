@@ -13,3 +13,5 @@ part_1: completed web scraping for loop with tutor.
 part_2: prepared scraped data for analysis.
 changing datetime formats:
 https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html
+
+plotting average temperature for each month.
